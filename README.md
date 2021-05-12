@@ -8,7 +8,7 @@
 
 - go to GitHub and create a new repository 
 
--connect your code challenge to the repository and upload to GitHub.
+- connect your code challenge to the repository and upload to GitHub.
 
 - use corneal gem to make models and tables for 
 
@@ -36,11 +36,12 @@ USERS:
 
 - assign random dogs to user in your terminal so every dog has a user. 
 
+# Controller/Views
 - in the controller make a route for seeing all the dogs called /dogs
 
 - in the controller make a route to show all the users called /users
 
-- set up your views for both your routes
+- set up your views for both your routes(erb files)
 
 # HTML:
 
