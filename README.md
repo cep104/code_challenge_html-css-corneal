@@ -12,7 +12,7 @@
 
 - use corneal gem to make models and tables for 
 
-Dog: name, age, imgurl, (belongs to a user)
+Dog: name, age, img_url, (belongs to a user)
 
 User: name, (has many dogs)
 
