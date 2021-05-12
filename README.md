@@ -1,10 +1,10 @@
 ## dog sitting site:
 
 # Setup
-
+- DO NOT USE THIS FILE CREATE A BRAND NEW APP ON YOUR LOCAL COMPUTER USE THIS READ ME AS A GUIDE FOR THE CHALLENGE.
 - make a new corneal app called code_challenge
 
-- run bundle / change active record / change migration  statement in specfile and config.ru 
+- run bundle / change active record / change migration  statement in spec_file and config.ru 
 
 - go to GitHub and create a new repository 
 
